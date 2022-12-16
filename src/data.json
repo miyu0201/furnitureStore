@@ -1,0 +1,41 @@
+[
+{
+"id":1,
+"name":"IDANÄS",
+"sub":"TV bench, dark brown lasered",
+"image":"/images/tv_bench.png",
+"desc":"The IDANÄS series combines timeless design with modern functions. Keep your TV organized - store your games, controllers and accessories in the two drawers and pull the cables out through the sockets on the back.",
+"price":3295
+
+},
+
+{
+"id":2,
+"name":"SOFFA",
+"sub":"3-seat section, Gransel natural colored",
+"image":"/images/sofa.png",
+"desc":"If you like the clean airy look, try the deep generous seats. Create your own personal combination of the SÖDERHAMN sofa, settle down and relax - for yourself or with the whole family.",
+"price":5169
+
+},
+
+{
+"id":3,
+"name":"ÄNGESBYN",
+"sub":"Storage table, black/pine light brown lacquered",
+"image":"/images/table.png",
+"desc":"Table and storage in one, which fits your entire home. The metal base and wooden table top create a naturally warm and rustic look. Perfect for everything you want close - from magazines to blankets.",
+"price":699
+},
+
+{
+"id":4,
+"name":"IDANÄS",
+"sub":"Cabinet with glass doors, dark brown lasered",
+"image":"/images/cabinet.png",
+"desc":"The IDANÄS series combines timeless design with modern functions. This cabinet has folding glass doors that give your home an elegant look.",
+"price":5299
+
+}
+
+]
